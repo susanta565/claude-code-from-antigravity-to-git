@@ -1,0 +1,6 @@
+/frames/*
+  Cache-Control: public, max-age=2592000
+/*.png
+  Cache-Control: public, max-age=2592000
+/index.html
+  Cache-Control: public, max-age=0, must-revalidate
